@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GSN-REACT-DEPLOY/static/css/main.c5c92c7a.css",
-    "main.js": "/GSN-REACT-DEPLOY/static/js/main.7d3594e1.js",
+    "main.js": "/GSN-REACT-DEPLOY/static/js/main.035bb735.js",
     "index.html": "/GSN-REACT-DEPLOY/index.html",
     "main.c5c92c7a.css.map": "/GSN-REACT-DEPLOY/static/css/main.c5c92c7a.css.map",
-    "main.7d3594e1.js.map": "/GSN-REACT-DEPLOY/static/js/main.7d3594e1.js.map"
+    "main.035bb735.js.map": "/GSN-REACT-DEPLOY/static/js/main.035bb735.js.map"
   },
   "entrypoints": [
     "static/css/main.c5c92c7a.css",
-    "static/js/main.7d3594e1.js"
+    "static/js/main.035bb735.js"
   ]
 }
