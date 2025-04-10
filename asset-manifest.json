@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GSN-REACT-DEPLOY/static/css/main.c5c92c7a.css",
+    "main.js": "/GSN-REACT-DEPLOY/static/js/main.b30bba8a.js",
+    "index.html": "/GSN-REACT-DEPLOY/index.html",
+    "main.c5c92c7a.css.map": "/GSN-REACT-DEPLOY/static/css/main.c5c92c7a.css.map",
+    "main.b30bba8a.js.map": "/GSN-REACT-DEPLOY/static/js/main.b30bba8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c92c7a.css",
+    "static/js/main.b30bba8a.js"
+  ]
+}
